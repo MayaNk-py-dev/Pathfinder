@@ -7,7 +7,7 @@ pygame.init()
 
 HEIGHT, WIDTH = 900, 900
 window = pygame.display.set_mode((HEIGHT, WIDTH))
-pygame.display.set_caption("Pathfinding visualizer")
+pygame.display.set_caption("Pathfinder")
 
 GREY = (128, 128, 128)
 
